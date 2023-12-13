@@ -1,2 +1,2 @@
-# .information
-Contains the wiki entries with information on Serilum's Minecraft mods.
+# Information on Serilum's Minecraft Mods
+Available on the [Wiki Page](https://github.com/Serilum/.information/wiki).
